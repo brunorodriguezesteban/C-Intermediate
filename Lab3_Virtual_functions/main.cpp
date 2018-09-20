@@ -6,5 +6,7 @@ using namespace std;
 int main()
 {
     cout << "Hello world!" << endl;
-    return 0;
+
+    Person *person1 = new Person("Pedro", "Sanchez Cum Fraude", 46, "Blanco Opresor");
+    person1->OutputAge();
 }

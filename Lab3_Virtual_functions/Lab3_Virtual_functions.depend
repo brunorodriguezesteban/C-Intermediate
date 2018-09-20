@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537461452 source:/home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/main.cpp
+	<iostream>
+	"Person.h"
+
+1537461474 /home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Person.h
+	<iostream>
+
