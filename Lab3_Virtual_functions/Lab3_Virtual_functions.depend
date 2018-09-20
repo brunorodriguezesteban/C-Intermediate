@@ -9,24 +9,24 @@
 	"Person.h"
 	<iostream>
 
-1537468429 /home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Headers.h
+1537468854 /home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Headers.h
 	"Teacher.h"
 	<iostream>
 	"Person.h"
 	"Student.h"
 	"Teacher.h"
 
-1537466508 /home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Student.h
+1537468854 /home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Student.h
 	"Headers.h"
 	<iostream>
 	"Person.h"
 
-1537468383 /home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Teacher.h
+1537468854 /home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Teacher.h
 	"Person.h"
 
-1537468710 source:/home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Student.cpp
+1537468854 source:/home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Student.cpp
 	"Student.h"
 
-1537468285 source:/home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Teacher.cpp
+1537468854 source:/home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Teacher.cpp
 	"Teacher.h"
 
