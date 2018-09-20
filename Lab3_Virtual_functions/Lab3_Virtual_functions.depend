@@ -1,8 +1,32 @@
 # depslib dependency file v1.0
-1537461452 source:/home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/main.cpp
+1537465358 source:/home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/main.cpp
+	"Headers.h"
+
+1537462289 /home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Person.h
+	<iostream>
+
+1537466115 source:/home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Person.cpp
+	"Person.h"
+	<iostream>
+
+1537463568 /home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Headers.h
+	<iostream>
+	"Person.h"
+	"Student.h"
+	"Teacher.h"
+
+1537465225 /home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Student.h
+	"Headers.h"
 	<iostream>
 	"Person.h"
 
-1537461474 /home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Person.h
-	<iostream>
+1537464749 /home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Teacher.h
+	"Headers.h"
+	"Person.h"
+
+1537465311 source:/home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Student.cpp
+	"Student.h"
+
+1537462490 source:/home/bruno/Escritorio/C-Intermediate/Lab3_Virtual_functions/Teacher.cpp
+	"Teacher.h"
 

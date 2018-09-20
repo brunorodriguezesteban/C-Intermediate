@@ -32,9 +32,14 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/Person.h" />
+		<Unit filename="Headers.h" />
+		<Unit filename="Person.cpp" />
+		<Unit filename="Person.h" />
+		<Unit filename="Student.cpp" />
+		<Unit filename="Student.h" />
+		<Unit filename="Teacher.cpp" />
+		<Unit filename="Teacher.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/Person.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />
