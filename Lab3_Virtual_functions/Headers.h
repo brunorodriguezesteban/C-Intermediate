@@ -1,7 +1,8 @@
 
-#ifndef TEACHER_H
-#define TEACHER_H
+#ifndef HEADERS_H
+#define HEADERS_H
 
+#include "Teacher.h"
 #include <iostream>
 #include "Person.h"
 #include "Student.h"

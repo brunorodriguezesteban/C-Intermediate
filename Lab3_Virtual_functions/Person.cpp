@@ -4,6 +4,8 @@
 Person::Person()
 {
     //ctor
+    std::cout<<std::endl;
+    std::cout<<"Create person object: "<<std::endl;
     this->first_name = "Bruno";
     this->last_name = "Rodríguez";
     this->age = 23;
@@ -12,6 +14,8 @@ Person::Person()
 Person::Person(std::string first_name_, std::string last_name_, int age_, std::string race_)
 {
     //ctor
+    std::cout<<std::endl;
+    std::cout<<"Create person object: "<<std::endl;
     this->first_name = first_name_;
     this->last_name = last_name_;
     this->age = age_;

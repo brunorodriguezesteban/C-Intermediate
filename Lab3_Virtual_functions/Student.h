@@ -11,6 +11,7 @@ class Student : public Person
         Student(std::string first_name_, std::string last_name_, int age_, std::string race_);
         virtual ~Student();
         virtual void OutputIdentity(); //function overrided
+        virtual void OutputAge();
 
     protected:
 
